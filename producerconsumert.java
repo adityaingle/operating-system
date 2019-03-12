@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class producerconsumer{
+public class producerconsumert{
 
  public static void main(String args[])
  {
